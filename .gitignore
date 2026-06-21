@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+.venv/
+.venv_test/
+
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore compiled wheel packages
+wheels/
+
+# Ignore local backup files (like your LLM backup)
+llm.bk

@@ -1,0 +1,9 @@
+psycopg2-binary
+langchain-text-splitters
+PyMuPDF
+qdrant-client
+langchain-core
+langchain-huggingface
+langgraph
+transformers
+torch
